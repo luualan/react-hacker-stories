@@ -8,10 +8,11 @@ to access the articles.
 I read Road to React by Robin Wieruch, and learned how to build this React application. The following are the concepts I've learned:
 
 * The React syntax
-* How to call Hooks such as useState and usReducer
-* How to create custom Hooks
-* How to create a Memoized Handler such as useCallback
+* How to call hooks such as useState and usReducer
+* How to create custom hooks
+* How to create a memoized handler such as useCallback
 * How to call APIs using fetch and axios 
+* How to implement a inline handler in JSX
 * How to implement infinite pagination (infinite scrolling)
 
 ## Website
