@@ -1,10 +1,10 @@
 # StoryFinder
 
-## Purpose
+## About
 A React application that lets a user search for a variety of articles on the internet. It calls the REST API: https://hn.algolia.com/api
 to access the articles.
 
-## About
+## What I'ved learned
 I read Road to React by Robin Wieruch, and learned how to build this React application. The following are the concepts I've learned:
 
 * The React syntax
