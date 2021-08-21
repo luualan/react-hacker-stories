@@ -1,4 +1,6 @@
 # React StoryFinder
+
+## Purpose
 A React application that lets a user search for a variety of articles on the internet. It calls the REST API: https://hn.algolia.com/api
 to access the articles.
 
@@ -10,6 +12,11 @@ Markup: *The React syntax
 *How to create custom Hooks
 *How to create a Memoized Handler such as useCallback
 *How to call APIs using fetch and axios 
+
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 
 ## Website
 https://storyfinder-73093.web.app/
