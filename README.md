@@ -6,7 +6,7 @@ A React app that lets a user search for a variety of articles on the internet. I
 The app calls the REST API: https://hn.algolia.com/api to access the articles. 
 
 ## What I'ved learned
-I read Road to React by Robin Wieruch, and learned how to build this React app. The following are the concepts I've learned:
+I read Road to React by Robin Wieruch and learned how to build this React app. The following are the concepts I've learned:
 
 * The React syntax
 * How to call hooks such as useState and usReducer
