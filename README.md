@@ -5,12 +5,14 @@ A React application that lets a user search for a variety of articles on the int
 to access the articles.
 
 ## About
-I read the textbook called Road to React by Robin Wieruch, and learned how to build this React application.
-Things I learned: * The React syntax
+I read Road to React by Robin Wieruch, and learned how to build this React application. The following are the concepts I've learned:
+
+* The React syntax
 * How to call Hooks such as useState and usReducer
 * How to create custom Hooks
 * How to create a Memoized Handler such as useCallback
 * How to call APIs using fetch and axios 
 
 ## Website
+Here's my React application:
 https://storyfinder-73093.web.app/
