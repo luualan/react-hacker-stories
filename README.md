@@ -16,5 +16,5 @@ I read Road to React by Robin Wieruch, and learned how to build this React appli
 * How to implement infinite pagination (infinite scrolling)
 
 ## Website
-Here's my React application:
+Here's my React application that's hosted on Firebase:
 https://storyfinder-73093.web.app/
